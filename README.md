@@ -1,0 +1,1 @@
+# Hackintosh-ChromeBox-CN62-Celeron-3215U-Monterey
